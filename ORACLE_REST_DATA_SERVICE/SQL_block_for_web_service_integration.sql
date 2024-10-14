@@ -1,4 +1,4 @@
--- POST
+--------------- POST ---------------------
 DECLARE
     v_request  CLOB;
     v_response CLOB;
@@ -13,8 +13,7 @@ BEGIN
 END;
 
 
--- GET
-
+---------------- GET ----------------------
 DECLARE
     v_request CLOB;
     v_response clob;
