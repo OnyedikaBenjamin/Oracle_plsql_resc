@@ -9,7 +9,6 @@ BEGIN
    
     owa_util.mime_header('application/json', true);
     htp.prn(v_response);
-
 END;
 
 
